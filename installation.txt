@@ -78,3 +78,5 @@ Local:
 
 // laravel october
 
+/*****************/
+https://medium.com/aubergine-solutions/continuous-integration-for-angular-with-angular-cli-jenkins-phantomjs-34a870fa096f
