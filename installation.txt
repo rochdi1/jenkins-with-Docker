@@ -1,4 +1,4 @@
-1- VM installieren
+﻿1- VM installieren
 2- Ubuntu
 3- Docker Installieren:
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
@@ -74,4 +74,7 @@ docker run -p 8080:8080 -p 50000:50000 jenkins
 Local:
 172.22.254.51:8080
 
+
+
+// laravel october
 
